@@ -5,7 +5,7 @@ All enhancements are listed as [issues](https://github.com/DBOMproject/enhanceme
 
 Proposals are canonically referred to as "DEP-XYZ" where XYZ is the issue number associated with the enhancement proposal. Pull requests and issues that are created in the individual project repositories will use this canonical reference
 
-# When to Create a New Enhancement Issue
+## When to Create a New Enhancement Issue
 
 Create an issue in this repository once you:
 
@@ -13,7 +13,7 @@ Create an issue in this repository once you:
 through our Slack Channels, Weekly technical touch-bases or mailing lists
 - (optionally) have done a prototype in your own fork or have identified people who agree to work on the enhancement
 
-# Labels
+## Labels
 
 | Label Name                   | Purpose                                                                                                      |
 |------------------------------|--------------------------------------------------------------------------------------------------------------|
