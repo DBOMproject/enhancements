@@ -1,16 +1,17 @@
 # Enhancements
 Public Tracking Repository for DEPs (DBoM Enhancement Proposals)
 
-All enhancements are listed as (Issues)[https://github.com/DBOMproject/enhancements/issues] on this repository and follow a specific template. The labels on the issues indicate the state of the enhancement and discussions around the enhancements may occur on the issue or on other channels such as Slack/Email. All collaterals are expected to be linked to the master issue
+All enhancements are listed as [issues](https://github.com/DBOMproject/enhancements/issues) on this repository and follow a specific template. The labels on the issues indicate the state of the enhancement and discussions around the enhancements may occur on the issue or on other channels such as Slack/Email. All collaterals are expected to be linked to the master issue
 
 Proposals are canonically referred to as "DEP-XYZ" where XYZ is the issue number associated with the enhancement proposal. Pull requests and issues that are created in the individual project repositories will use this canonical reference
 
 # When to Create a New Enhancement Issue
 
 Create an issue in this repository once you:
-    - have circulated your idea to see if there is interest
+
+- have circulated your idea to see if there is interest
 through our Slack Channels, Weekly technical touch-bases or mailing lists
-    - (optionally) have done a prototype in your own fork or have identified people who agree to work on the enhancement
+- (optionally) have done a prototype in your own fork or have identified people who agree to work on the enhancement
 
 # Labels
 
