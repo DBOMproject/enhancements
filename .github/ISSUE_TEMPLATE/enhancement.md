@@ -1,3 +1,11 @@
+---
+name: DBoM Enhancement Proposal
+about: File a DBoM Enhancement Proposal
+title: '[DEP] <title>'
+labels: 
+assignees: ''
+---
+
 ### Enhancement Description
 
 Describe your enhancement in detail, including motivations and potential use cases for this feature
@@ -8,7 +16,7 @@ Describe your enhancement in detail, including motivations and potential use cas
 - Primary contact (assignee):
 
 <!--
-Uncomment the below feilds once the enhancement is accepted into a milestone
+Uncomment the below fields once the enhancement is accepted into a milestone
 
 - Planned Release Milestone:  milestone at which this enhancement is planned to be in general availability 
 - Related Issue links in component repositories:
